@@ -1,0 +1,32 @@
+#principal {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: lightcyan;
+    height: calc(100vh-100px);
+}
+/**
+.receita {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 310px;
+    height: 440px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-color: lightgoldenrodyellow;
+}
+.imagem {
+    width: 300px;
+    height: 150px;
+}
+.lista {
+    text-align: left;
+}
+.linha {
+    width: 300px;
+}
+.modo_de_preparo {
+    margin-top: 5px;
+}
+**/ 

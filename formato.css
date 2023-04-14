@@ -1,0 +1,47 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-y: scroll;
+}
+/**
+.cabecalho {
+    background-color: lightcyan;
+}
+.menu {
+    border: 5px solid lightcyan;
+}
+**/
+header {
+    height: 60px;
+}
+.principal {
+    height: 400px;
+    background-color: lightcyan;
+    height: calc(100vh-100px);
+}
+.marca {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: relative; top: 90px
+}
+.logo {
+    width: 50px;
+    height: 50px;
+}
+#titulo {
+    font-size: 26px;
+    text-align: center;
+}
+#mensagem {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    position: relative; top: 100px; left: 10px;
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 25px;
+    font-size: 20px;
+}
